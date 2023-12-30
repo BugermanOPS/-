@@ -118,3 +118,7 @@ let tariffThree = Tariff(cost: 500, min: 5000, gb: 10)
 mts.addObserver(gazprom)
 
 mts.notification(tariffOne)
+
+
+
+// тестирование.
